@@ -36,11 +36,7 @@ CommonStyles = {'attribute name': {'fore': 3072678},
  'indent guides': {'fore': 4212295},
  'keywords': {'fore': 11374260},
  'keywords2': {'fore': 8904824},
-<<<<<<< HEAD
  'linenumbers': {'back': 2238503, 'fore': 7368816},
-=======
- 'linenumbers': {'back': 3550504, 'fore': 15910538},
->>>>>>> 1932bc8f5a4671d3de34b7c692c17685a47279fa
  'numbers': {'fore': 7374800},
  'operators': {'fore': 13160659},
  'preprocessor': {'fore': 11382189},
@@ -49,11 +45,7 @@ CommonStyles = {'attribute name': {'fore': 3072678},
  'stdin': {'fore': 16777215},
  'stdout': {'fore': 16777215},
  'stringeol': {'back': 6697728, 'eolfilled': 1},
-<<<<<<< HEAD
  'strings': {'fore': 7724007},
-=======
- 'strings': {'fore': 9223843},
->>>>>>> 1932bc8f5a4671d3de34b7c692c17685a47279fa
  'tags': {'fore': 52735},
  'variables': {'fore': 15718758}}
 
@@ -74,11 +66,7 @@ LanguageStyles = {'C#': {'UUIDs': {},
          'ids': {'fore': 3072678},
          'numbers': {'fore': 16744878},
          'operators': {'fore': 16120057},
-<<<<<<< HEAD
          'strings': {'fore': 7724007},
-=======
-         'strings': {'fore': 2070525},
->>>>>>> 1932bc8f5a4671d3de34b7c692c17685a47279fa
          'tags': {'fore': 7481081},
          'values': {'fore': 7481081},
          'variables': {'fore': 15718758}},
@@ -116,7 +104,6 @@ LanguageStyles = {'C#': {'UUIDs': {},
                 'commentdockeyword': {},
                 'commentdockeyworderror': {'fore': 2286591},
                 'globalclass': {'fore': 8695018},
-<<<<<<< HEAD
                 'identifiers': {'fore': 3072679},
                 'keywords': {'fore': 15718758},
                 'keywords2': {'fore': 13425529},
@@ -131,19 +118,6 @@ LanguageStyles = {'C#': {'UUIDs': {},
          'numbers': {'fore': 2136062},
          'operators': {'fore': 13551040},
          'strings': {'fore': 7724007},
-=======
-                'keywords': {'fore': 15910538},
-                'keywords2': {'fore': 13425529},
-                'regex': {'fore': 6737151},
-                'stderr': {'fore': 16705720},
-                'verbatim': {}},
- 'PHP': {'comments': {'fore': 6189429},
-         'identifiers': {'fore': 15718758},
-         'keywords': {'fore': 16744878},
-         'numbers': {'fore': 2070525},
-         'operators': {'fore': 13551040},
-         'strings': {'fore': 3072678},
->>>>>>> 1932bc8f5a4671d3de34b7c692c17685a47279fa
          'variables': {'fore': 7481081}},
  'Perl': {'arrays': {'fore': 15390831},
           'data sections': {'fore': 15253105},
@@ -213,11 +187,7 @@ Colors = {'bookmarkColor': 15327885,
  'caretLineBack': 4339506,
  'currentLineColor': 3814187,
  'edgeColor': 5323048,
-<<<<<<< HEAD
  'foldMarginColor': 2238503,
-=======
- 'foldMarginColor': 3550504,
->>>>>>> 1932bc8f5a4671d3de34b7c692c17685a47279fa
  'selBack': 4081737,
  'selFore': 9674656,
  'whitespaceColor': 3815994}
